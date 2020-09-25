@@ -11,5 +11,4 @@ import com.example.demo.entity.Movie;
 @Repository
 public interface CustomerRatingRepository extends CrudRepository<Movie, Serializable> 
 {
-	
 }

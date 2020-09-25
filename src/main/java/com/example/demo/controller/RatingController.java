@@ -44,3 +44,4 @@ public class RatingController {
 		return movieList.stream().max(Comparator.comparing(Movie::getCustomerAverageRating));
 	}
 }
+

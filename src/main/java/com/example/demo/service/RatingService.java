@@ -22,3 +22,4 @@ public class RatingService {
 		return (List<Movie>) rep.findAll();
 	}
 }
+

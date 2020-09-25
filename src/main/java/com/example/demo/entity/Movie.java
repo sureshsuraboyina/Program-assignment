@@ -63,3 +63,4 @@ public class Movie {
 				+ customerAverageRating + ", averageRating=" + averageRating + "]";
 	}
 }
+
